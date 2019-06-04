@@ -60,7 +60,6 @@ class JobDescriptionActivity : AppCompatActivity() {
                 menuItem.isEnabled = false;
             }
         }
-
         return super.onPrepareOptionsMenu(menu)
     }
 
